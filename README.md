@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Sezer Akdeniz</h1>
 <h3 align="center">A passionate backend developer from TURKEY</h3>
 
-- 🌱 I’m currently learning **PHP, C, C#**
+- 🌱 I’m currently learning **Node.js, Unity, C#**
 
 - 💬 Ask me about **anything**
 
